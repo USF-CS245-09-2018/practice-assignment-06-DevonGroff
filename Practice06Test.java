@@ -54,7 +54,7 @@ public class Practice06Test {
 				grade += 5;
 			if (queue.empty())
 				grade += 5;
-			System.out.println("[+" + grade + "%] Queue and Stack declared correctly.");
+			System.out.println("[+" + grade + "%] Queue and Stack declared correctly");
 	
 			// First tests: is the queue correct? Is the stack correct?
 			String first = "first";
